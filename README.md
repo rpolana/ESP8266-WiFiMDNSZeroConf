@@ -2,7 +2,8 @@
 
 ## PURPOSE
 To allow WiFi settings to be provided through the device's own AP
-To discover MDNS servers within the local network without any manual configuration 
+To discover MDNS servers within the local network without any manual configuration.
+
 This allows for a deployment IoT devices with one-time WiFi configuration, and to connect to any MDNS servers in the network with no additional configuration (ZeroConf).
 
 ## DESCRIPTION 
